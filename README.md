@@ -12,7 +12,7 @@ This project automatically collects the latest **AI and technology news**, summa
 
 ## 📸 Workflow Image
 
-![AI News Summarizer Workflow](images/workflow.png)
+![AI News Summarizer Workflow](screenshots/workflow.png)
 
 ## 🛠️ Technologies Used
 
