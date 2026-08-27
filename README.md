@@ -10,7 +10,6 @@ This project automatically collects the latest **AI and technology news**, summa
 
 **Schedule Trigger → RSS Feed → Aggregate → Google Gemini → Gmail**
 
-## Workflow
 
 ![AI News Summarizer Workflow](screenshots/workflow.png)
 
